@@ -1,0 +1,26 @@
+C:\Users\Jan\source\repos\remote\remote\bin\Debug\remote.exe.config
+C:\Users\Jan\source\repos\remote\remote\bin\Debug\remote.exe
+C:\Users\Jan\source\repos\remote\remote\bin\Debug\remote.pdb
+C:\Users\Jan\source\repos\remote\remote\obj\Debug\remote.csprojAssemblyReference.cache
+C:\Users\Jan\source\repos\remote\remote\obj\Debug\remote.Properties.Resources.resources
+C:\Users\Jan\source\repos\remote\remote\obj\Debug\remote.csproj.GenerateResource.cache
+C:\Users\Jan\source\repos\remote\remote\obj\Debug\remote.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\remote\remote\obj\Debug\remote.exe
+C:\Users\Jan\source\repos\remote\remote\obj\Debug\remote.pdb
+C:\Users\Jan\source\repos\remote\remote\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jan\source\repos\remote\remote\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jan\source\repos\remote\remote\obj\Debug\remote.csproj.CopyComplete
+C:\Users\Jan\source\repos\remote\remote\obj\Debug\remote.philipsremote.resources
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\bin\Debug\remote.exe.config
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\bin\Debug\remote.exe
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\bin\Debug\remote.pdb
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\obj\Debug\remote.csprojAssemblyReference.cache
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\obj\Debug\remote.philipsremote.resources
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\obj\Debug\remote.Properties.Resources.resources
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\obj\Debug\remote.csproj.GenerateResource.cache
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\obj\Debug\remote.csproj.CoreCompileInputs.cache
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\obj\Debug\remote.csproj.CopyComplete
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\obj\Debug\remote.exe
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\obj\Debug\remote.pdb

@@ -1,0 +1,25 @@
+C:\Users\Jan\source\repos\remote\remote\bin\Release\remote.exe.config
+C:\Users\Jan\source\repos\remote\remote\bin\Release\remote.exe
+C:\Users\Jan\source\repos\remote\remote\bin\Release\remote.pdb
+C:\Users\Jan\source\repos\remote\remote\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jan\source\repos\remote\remote\bin\Release\Newtonsoft.Json.xml
+C:\Users\Jan\source\repos\remote\remote\obj\Release\remote.philipsremote.resources
+C:\Users\Jan\source\repos\remote\remote\obj\Release\remote.Properties.Resources.resources
+C:\Users\Jan\source\repos\remote\remote\obj\Release\remote.csproj.GenerateResource.cache
+C:\Users\Jan\source\repos\remote\remote\obj\Release\remote.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\remote\remote\obj\Release\remote.csproj.CopyComplete
+C:\Users\Jan\source\repos\remote\remote\obj\Release\remote.exe
+C:\Users\Jan\source\repos\remote\remote\obj\Release\remote.pdb
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\bin\Release\remote.exe.config
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\bin\Release\remote.exe
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\bin\Release\remote.pdb
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\bin\Release\Newtonsoft.Json.xml
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\obj\Release\remote.csprojAssemblyReference.cache
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\obj\Release\remote.philipsremote.resources
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\obj\Release\remote.Properties.Resources.resources
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\obj\Release\remote.csproj.GenerateResource.cache
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\obj\Release\remote.csproj.CoreCompileInputs.cache
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\obj\Release\remote.csproj.CopyComplete
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\obj\Release\remote.exe
+C:\Users\Jan\Desktop\prog\Philips Remote\remote\remote\obj\Release\remote.pdb
